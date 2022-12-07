@@ -1,0 +1,4 @@
+CLIENTE,ESPECIE,KG,VALOR,CONTATO,LOCALIZACAO,DESCRICAO,
+Frederico ,Bagre,2000.0,19.0,"<a href=""https://api.whatsapp.com/send?phone=550"">WhatsApp</a>",Pinheiro-MA,0
+João ,Bagre,1500.0,20.0,"<a href=""https://api.whatsapp.com/send?phone=550"">WhatsApp</a>",Belém-PA,Levamos até você! Cobramos frete.
+José ,Bagre,3000.0,17.0,"<a href=""https://api.whatsapp.com/send?phone=550"">WhatsApp</a>",Piripiri-PI,Levamos até você! Cobramos frete.
